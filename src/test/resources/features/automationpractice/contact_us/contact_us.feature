@@ -18,7 +18,7 @@ Feature: Formulario de Contacto
     Examples:
       | tituloAsunto     | email        | ordenReferencia | mensaje                                         | archivoAdjunto | mensajeConfirmacion                                  |
       | Customer service | pepito@g.com | 01356222        | Por favor enviar la orden lo mas rapido posible |                | Your message has been successfully sent to our team. |
-      | Webmaster | pepito@g.com | 01356222        | Por favor enviar la orden lo mas rapido posible |                | Your message has been successfully sent to our team. |
+#      | Webmaster | pepito@g.com | 01356222        | Por favor enviar la orden lo mas rapido posible |                | Your message has been successfully sent to our team. |
 
 #    Examples:
 #      | cabecera         | email            | ordenReferencia | mensaje                                                      |
